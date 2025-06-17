@@ -40,4 +40,10 @@ const styles = StyleSheet.create({
       borderRadius: 5,
     },
   });
+// Este é um exemplo de tela inicial simples em React Native
+// que inclui dois botões para navegar para as telas de detalhes e perfil.
+// Ao pressionar os botões, ele navega para as respectivas telas.
+// Você pode expandir este exemplo para incluir mais funcionalidades,
+// como exibir uma lista de itens ou informações adicionais.
+// Certifique-se de que o React Navigation esteja configurado corretamente
   
